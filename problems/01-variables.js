@@ -5,7 +5,7 @@ test your work by running your code and the test specs!
 
 // 1. Declare a variable called `firstName` and assign it your first name
 //    as a string:
-
+//note
 // Your code here 
 
 
